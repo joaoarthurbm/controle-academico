@@ -1,0 +1,207 @@
+{"nome": "Arquitetura de Software",
+                    "aulas" : [
+  {
+    "data": "26/09/2022",
+    "creditos": 2,
+    "assunto": "Introdução ao curso e Introdução à análise de algoritmos"
+  },
+  {
+    "data": "29/09/2022",
+    "creditos": 2,
+    "assunto": "Introdução à análise de algoritmos"
+  },
+  {
+    "data": "03/10/2022",
+    "creditos": 2,
+    "assunto": "Análise assintótica: visão geral"
+  },
+  {
+    "data": "06/10/2022",
+    "creditos": 2,
+    "assunto": "Análise assintótica: notações"
+  },
+  {
+    "data": "10/10/2022",
+    "creditos": 2,
+    "assunto": "Análise de algoritmos recursivos"
+  },
+  {
+    "data": "13/10/2022",
+    "creditos": 2,
+    "assunto": "Análise de algoritmos recursivos"
+  },
+  {
+    "data": "17/10/2022",
+    "creditos": 2,
+    "assunto": "Bubblesort, selectionsort e insertionsort"
+  },
+  {
+    "data": "20/10/2022",
+    "creditos": 2,
+    "assunto": "Bubblesort, selectionsort e insertionsort"
+  },
+  {
+    "data": "24/10/2022",
+    "creditos": 2,
+    "assunto": "Mergesort e quicksort"
+  },
+  {
+    "data": "27/10/2022",
+    "creditos": 2,
+    "assunto": "Mergesort e quicksort"
+  },
+  {
+    "data": "31/10/2022",
+    "creditos": 2,
+    "assunto": "Countingsort e radixsort"
+  },
+  {
+    "data": "03/11/2022",
+    "creditos": 2,
+    "assunto": "Countingsort e radixsort"
+  },
+  {
+    "data": "07/11/2022",
+    "creditos": 2,
+    "assunto": "Avaliação de Primeiro Estágio"
+  },
+  {
+    "data": "10/11/2022",
+    "creditos": 2,
+    "assunto": "EDs baseadas em arrays"
+  },
+  {
+    "data": "14/11/2022",
+    "creditos": 2,
+    "assunto": "EDs baseadas em arrays"
+  },
+  {
+    "data": "17/11/2022",
+    "creditos": 2,
+    "assunto": "LinkedList: abordagem iterativa"
+  },
+  {
+    "data": "21/11/2022",
+    "creditos": 2,
+    "assunto": "LinkedList: abordagem recursivo"
+  },
+  {
+    "data": "24/11/2022",
+    "creditos": 2,
+    "assunto": "Tabelas Hash: endereçamento fechado"
+  },
+  {
+    "data": "28/11/2022",
+    "creditos": 2,
+    "assunto": "Tabelas Hash: endereçamento aberto"
+  },
+  {
+    "data": "01/12/2022",
+    "creditos": 2,
+    "assunto": "Avaliação de Segundo Estágio"
+  },
+  {
+    "data": "05/12/2022",
+    "creditos": 2,
+    "assunto": "Árvores Binárias de Pesquisa: conceitos"
+  },
+  {
+    "data": "08/12/2022",
+    "creditos": 2,
+    "assunto": "Árvores Binárias de Pesquisa: operações"
+  },
+  {
+    "data": "12/12/2022",
+    "creditos": 2,
+    "assunto": "Heap: operações básicas"
+  },
+  {
+    "data": "15/12/2022",
+    "creditos": 2,
+    "assunto": "Heap: buildheap e heapsort"
+  },
+  {
+    "data": "19/12/2022",
+    "creditos": 2,
+    "assunto": "Balanceamento: rotações"
+  },
+  {
+    "data": "22/12/2022",
+    "creditos": 2,
+    "assunto": "AVL: operação de inserção"
+  },
+  {
+    "data": "02/02/2023",
+    "creditos": 2,
+    "assunto": "Árvores PV e  Árvores B"
+  },
+  {
+    "data": "06/02/2023",
+    "creditos": 2,
+    "assunto": "Avaliação de Terceiro Estágio"
+  },
+  {
+    "data": "09/02/2023",
+    "creditos": 2,
+    "assunto": "Avaliação de Reposição"
+  },
+  {
+    "data": "13/02/2023",
+    "creditos": 2,
+    "assunto": "Avaliação: Prova Final"
+  }
+],
+                    "codigo": "1411305",
+                    "plano" : {"ementa": "Introdução à arquitetura de software. Modelo de visões Arquiteturais. Documentação arquitetural. Estilos, padrões e estratégias arquiteturais. Avaliação e Verificação arquitetural.
+
+",         
+                               "objetivos": "Ao final deste curso você será capaz de:
+
+* Debater sobre diferentes definições de arquitetura de software;
+* Descrever a arquitetura de sistemas utilizando o modelo C4 e o modelo de visões arquiteturais;
+* Identificar, compreender e escrever sobre os principais estilos e padrões arquiteturais;
+* Compreender, aplicar e propor métodos de avaliação arquitetural.",
+                               "conteudo": "Introdução à arquitetura de software; o modelo de visões arquiteturais; o modelo c4; documentação arquitetural; cliente-servidor, monolito e microsserviços; P2P e Broker; MVC e REST; plugins, pipes-and-filter e microkernel; publish-subscribe; avaliação arquitetural e verificação arquitetural.",
+                               "metodologia": "Aula expositiva e apresentação do desafio; Oficinas e Apresentação de resolução de problemas.
+
+.",
+                               "avaliacao": "Diferentemente da organização clássica em três estágios, cada iteração será avaliada com uma nota. As iterações possuem dois momentos de entregas: parciais e finais. Os pesos entre essas entregas são definidos de acordo com o progresso da iteração. A ideia é incentivar que o trabalho seja realizado de maneira incremental e que o esforço seja uniformizado durante o período. O componente de maior peso na nota será o relatório em que os alunos devem descrever a resolução do problema, técnicas utilizadas e discussão sobre os resultados. Como o sistema tradicional de avaliação requer que a formatação do curso tenha 3 notas, elas são divididas da seguinte maneira.
+
+Nota 1. O módulo 1 possui apenas uma iteração com 3 entregas parciais e uma final.
+
+Nota 2. O módulo 2 possui 4 iterações com pesos iguais. Cada uma com 2 entregas parciais e uma final.
+
+Nota 3. O módulo 3 possui apenas uma iteração com 3 entregas parciais e uma final.
+
+A nota final na disciplina é a média entre as Notas 1, 2 e 3.
+
+As atividades do módulo 1 e 3 são em grupo, enquanto as atividades do módulo 2 são individuais.",
+                               "referencias": "Básica
+Brown, Simon. The art of visualising software architecture: communicating software architecture with sketches, diagrams and the C4 model.
+
+Rozanski, Nick, and Eóin Woods. Software systems architecture: working with stakeholders using viewpoints and perspectives. Addison-Wesley, 2012.
+
+Complementar
+Kruchten, Philippe. ¿Reference: Title: Architectural Blueprints¿The ¿4+ 1¿ View Model of Software Architecture.¿ IEEE software 12 (1995): 6.
+
+Clements, Paul, et al. Documenting software architectures: views and beyond. Pearson Education, 2002.
+
+Amy Brown and Greg Wilson (editors). The Architecture of Open Source Applications. Volumes 1-2, 2012.
+
+Bass, Len, Paul Clements, and Rick Kazman. Software architecture in practice. Addison-Wesley Professional, 2003.
+
+Brooks Jr, Frederick P. ¿The mythical man-month (anniversary ed.)¿, 1995.
+
+Fairbanks, George. Just enough software architecture: a risk-driven approach. Marshall & Brainerd, 2010.
+
+Mary, Shaw, and Garlan David. ¿Software Architecture: Perspectives on an Emerging Discipline.¿ Prentice-Hall (1996).
+
+Rechtin, Eberhardt. ¿Systems Architecting-Creating & Building Complex Systems, 1991, 333 pages.¿
+
+Keeling, Michael. Design It!: From Programmer to Software Architect. Pragmatic Bookshelf, 2017.
+
+Gamma, Erich. Design patterns: elements of reusable object-oriented software. Pearson Education India, 1995.
+
+Gorton, Ian. Essential software architecture. Springer Science & Business Media, 2006."
+                              }
+           }
