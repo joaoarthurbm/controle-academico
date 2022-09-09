@@ -10,9 +10,12 @@
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js
 // ==/UserScript==
 
+
 (function() {
     'use strict';
 
+    // preenche aulas a partir desse json. se quiser outra disciplina, construir o json
+    // neste formato e mudar o link em @match.
     $.getJSON('https://raw.githubusercontent.com/joaoarthurbm/controle-academico/master/data/eda.json', function(eda) {
 
         /**
