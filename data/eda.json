@@ -13,122 +13,122 @@
   {
     "data": "03/10/2022",
     "creditos": 2,
-    "assunto": "Análise assintótica: visão geral"
+    "assunto": "Análise assintótica: notações"
   },
   {
     "data": "06/10/2022",
     "creditos": 2,
-    "assunto": "Análise assintótica: notações"
+    "assunto": "Análise de algoritmos recursivos"
   },
   {
     "data": "10/10/2022",
     "creditos": 2,
-    "assunto": "Análise de algoritmos recursivos"
+    "assunto": "Bubblesort, selectionsort e insertionsort"
   },
   {
     "data": "13/10/2022",
     "creditos": 2,
-    "assunto": "Análise de algoritmos recursivos"
+    "assunto": "Mergesort e quicksort"
   },
   {
     "data": "17/10/2022",
     "creditos": 2,
-    "assunto": "Bubblesort, selectionsort e insertionsort"
+    "assunto": "Mergesort e quicksort"
   },
   {
     "data": "20/10/2022",
     "creditos": 2,
-    "assunto": "Bubblesort, selectionsort e insertionsort"
+    "assunto": "Countingsort e radixsort"
   },
   {
     "data": "24/10/2022",
     "creditos": 2,
-    "assunto": "Mergesort e quicksort"
+    "assunto": "Countingsort e radixsort"
   },
   {
     "data": "27/10/2022",
     "creditos": 2,
-    "assunto": "Mergesort e quicksort"
+    "assunto": "Avaliação de Primeiro Estágio"
   },
   {
     "data": "31/10/2022",
     "creditos": 2,
-    "assunto": "Countingsort e radixsort"
+    "assunto": "Aplicações de Algoritmos de Ordenação"
   },
   {
     "data": "03/11/2022",
     "creditos": 2,
-    "assunto": "Countingsort e radixsort"
+    "assunto": "EDs baseadas em arrays"
   },
   {
     "data": "07/11/2022",
     "creditos": 2,
-    "assunto": "Avaliação de Primeiro Estágio"
+    "assunto": "EDs baseadas em arrays"
   },
   {
     "data": "10/11/2022",
     "creditos": 2,
-    "assunto": "EDs baseadas em arrays"
+    "assunto": "LinkedList: abordagem iterativa"
   },
   {
     "data": "14/11/2022",
     "creditos": 2,
-    "assunto": "EDs baseadas em arrays"
+    "assunto": "LinkedList: abordagem recursivo"
   },
   {
     "data": "17/11/2022",
     "creditos": 2,
-    "assunto": "LinkedList: abordagem iterativa"
+    "assunto": "Tabelas Hash: endereçamento fechado"
   },
   {
     "data": "21/11/2022",
     "creditos": 2,
-    "assunto": "LinkedList: abordagem recursivo"
+    "assunto": "Tabelas Hash: endereçamento aberto"
   },
   {
     "data": "24/11/2022",
     "creditos": 2,
-    "assunto": "Tabelas Hash: endereçamento fechado"
+    "assunto": "Avaliação de Segundo Estágio"
   },
   {
     "data": "28/11/2022",
     "creditos": 2,
-    "assunto": "Tabelas Hash: endereçamento aberto"
+    "assunto": "Árvores Binárias de Pesquisa: conceitos"
   },
   {
     "data": "01/12/2022",
     "creditos": 2,
-    "assunto": "Avaliação de Segundo Estágio"
+    "assunto": "Árvores Binárias de Pesquisa: operações"
   },
   {
     "data": "05/12/2022",
     "creditos": 2,
-    "assunto": "Árvores Binárias de Pesquisa: conceitos"
+    "assunto": "Heap: operações básicas"
   },
   {
     "data": "08/12/2022",
     "creditos": 2,
-    "assunto": "Árvores Binárias de Pesquisa: operações"
+    "assunto": "Heap: buildheap e heapsort"
   },
   {
     "data": "12/12/2022",
     "creditos": 2,
-    "assunto": "Heap: operações básicas"
+    "assunto": "Balanceamento: rotações"
   },
   {
     "data": "15/12/2022",
     "creditos": 2,
-    "assunto": "Heap: buildheap e heapsort"
+    "assunto": "AVL: operação de inserção"
   },
   {
     "data": "19/12/2022",
     "creditos": 2,
-    "assunto": "Balanceamento: rotações"
+    "assunto": "Avaliação de Terceiro Estágio"
   },
   {
     "data": "22/12/2022",
     "creditos": 2,
-    "assunto": "AVL: operação de inserção"
+    "assunto": "buffer"
   },
   {
     "data": "02/02/2023",
@@ -138,7 +138,7 @@
   {
     "data": "06/02/2023",
     "creditos": 2,
-    "assunto": "Avaliação de Terceiro Estágio"
+    "assunto": "Revisão de conteúdo"
   },
   {
     "data": "09/02/2023",
