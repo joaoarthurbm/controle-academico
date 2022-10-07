@@ -1,3 +1,4 @@
+/* eslint-env jquery*/
 // ==UserScript==
 // @name         aulasEDA
 // @namespace    http://tampermonkey.net/
@@ -9,7 +10,6 @@
 // @grant        none
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js
 // ==/UserScript==
-
 
 (function() {
     'use strict';
