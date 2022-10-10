@@ -7,7 +7,6 @@
 // @description  try to take over the world!
 // @author       You
 // @match        https://pre.ufcg.edu.br:8443/ControleAcademicoOnline/Controlador?command=ProfessorTurmaFrequenciaEditar&codigo=1411305*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=google.com
 // @grant        none
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js
 // ==/UserScript==
