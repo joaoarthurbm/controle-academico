@@ -150,35 +150,4 @@
     "creditos": 2,
     "assunto": "Avaliação: Exame Final"
   }
-],
-                    "codigo": "1411317",
-                    "plano" : {"ementa": "Leitura e Escrita de relatórios científicos. Como preparar uma apresentação; como apresentar um trabalho; Planejamento e execução de projeto em Ciência da Computação.",         
-                               "objetivos": "Nosso foco aqui é desenvolver a sua capacidade de leitura e compreensão de documentos e trabalhos técnicos, além fazer com que você seja capaz de planejar e apresentar de maneira escrita e oral trabalhos dessa natureza. Com essas habilidades, você será capaz de conceber, planejar e escrever um projeto de trabalho de conclusão de curso, que é o resultado concreto esperado dessa disciplina.",
-                               "conteudo": "O curso foi separado em três módulos:
-
-O que é um TCC no contexto do curso de Ciência da Computação da UFCG?
-
-Prática de Escrita: clareza, concisão, coerência e coesão, ritmo, estruturação em parágrafos; revisão e reescrita.
-
-Projeto de TCC: Estrutura e boas práticas em trabalhos de conclusão de curso. Boas práticas em apresentações acadêmicas.
-
-No primeiro módulo iremos caracterizar a natureza de um trabalho de conclusão de curso no contexto da nossa graduação. Nesse módulo, além da apresentação por parte do professor das definições e modalidades de TCC em Computação @ UFCG, iremos de maneira prática exercitar a compreensão de documentos e trabalhos técnicos dentro do contexto de Ciência da Computação.
-
-O objetivo principal do segundo módulo da disciplina é aprofundarmos nos detalhes técnicos de escrita, afinal a escrita servirá para comunicar os resultados do seu trabalho com clareza e objetividade. De certa forma, esse segundo módulo da disciplina é um aspecto transversal no curso, pois iremos abordá-lo com frequência em vários momentos da disciplina.
-
-Por fim, como o objetivo principal da disciplina é a produção de um projeto de trabalho de conclusão de curso, no terceiro módulo iremos dedicar nosso esforço à concepção, ao planejamento e à apresentação desse projeto. Esse módulo inclui algumas aulas, porém você será o agente central no processo de concepção da proposta, enquanto o professor supervisionará suas atividades.",
-                               "metodologia": " Pouco da disciplina seguirá o modelo tradicional baseado na tríade aula-exercício-avaliação. Conduzirei a disciplina baseado na metodologia resumida no parágrafo acima, que é utilizada em outros cursos bem sucedidos. Em particular, eu irei considerar esse curso bem sucedido se conseguirmos replicar a metodologia descrita nesse artigo: https://www.nytimes.com/2019/03/06/learning/teaching-great-writing-one-sentence-at-a-time.html
-
-Além das questões técnicas de escrita, é importante destacar que Projeto de TCC é uma disciplina construída em conjunto com os alunos. Essa afirmação baseia-se no fato de que você participará ativamente do processo criativo, uma vez que terá que propor um trabalho de conclusão de curso. Isso significa que a bola está com você e que não partirá do professor essa iniciativa. Assim, como professor, conduzirei atividades que te coloque como o agente principal na elaboração, condução e escrita do seu projeto.
-
-Em resumo, teremos aulas expositivas sobre conceitos relacionados ao TCC em Computação, atividades práticas para exercitar a escrita, e exercícios para estimular você a propor o seu trabalho de TCC.",
-                               "avaliacao": "Média da entrega dos 3 milestones.",
-                               "referencias": "Tirando de letra: Orientações simples e práticas para escrever bem, Chico Moura,&#8206; Wilma Moura. 1a. edição, Cia. das Letras.
-
-Writing for Computer Science, Justin Zobel, 3rd Edition, Springer
-
-Escrever Melhor: Guia para passar os textos a limpo. Dad Squarisi, Arlete Salvador. Ed. Contexto.
-
-Metodologia de Pesquisa em Ciência da Computação. Raul Wazlawick, Ed. Campus. 2009."
-                              }
-           }
+]}
