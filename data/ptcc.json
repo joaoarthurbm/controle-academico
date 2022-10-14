@@ -1,162 +1,184 @@
-{"nome": "eda",
-                    "aulas" : [
+{"nome": "ptcc",
+                    "aulas" :[
   {
     "data": "26/09/2022",
     "creditos": 2,
-    "assunto": "Introdução ao curso e Introdução à análise de algoritmos"
+    "assunto": "Introdução ao curso de PTCC"
   },
   {
-    "data": "29/09/2022",
+    "data": "28/09/2022",
     "creditos": 2,
-    "assunto": "Introdução à análise de algoritmos"
+    "assunto": "Exemplos de TCC: pesquisa"
   },
   {
     "data": "03/10/2022",
     "creditos": 2,
-    "assunto": "Análise assintótica: notações"
+    "assunto": "Exemplos de TCC: desenvolvimento"
   },
   {
-    "data": "06/10/2022",
+    "data": "05/10/2022",
     "creditos": 2,
-    "assunto": "Análise de algoritmos recursivos"
+    "assunto": "Exemplos de TCC: pesquisa"
   },
   {
     "data": "10/10/2022",
     "creditos": 2,
-    "assunto": "Bubblesort, selectionsort e insertionsort"
-  },
-  {
-    "data": "13/10/2022",
-    "creditos": 2,
-    "assunto": "Mergesort e quicksort"
+    "assunto": "Exemplos de TCC: desenvolvimento"
   },
   {
     "data": "17/10/2022",
     "creditos": 2,
-    "assunto": "Mergesort e quicksort"
+    "assunto": "Apresentação de orientadores possíveis"
   },
   {
-    "data": "20/10/2022",
+    "data": "19/10/2022",
     "creditos": 2,
-    "assunto": "Countingsort e radixsort"
+    "assunto": "Apresentação de orientadores possíveis"
   },
   {
     "data": "24/10/2022",
     "creditos": 2,
-    "assunto": "Countingsort e radixsort"
+    "assunto": "Acompanhamento de definição de PTCC"
   },
   {
-    "data": "27/10/2022",
+    "data": "26/10/2022",
     "creditos": 2,
-    "assunto": "Avaliação de Primeiro Estágio"
+    "assunto": "Acompanhamento de definição de PTCC"
   },
   {
     "data": "31/10/2022",
     "creditos": 2,
-    "assunto": "Aplicações de Algoritmos de Ordenação"
+    "assunto": "Acompanhamento de definição de PTCC"
   },
   {
-    "data": "03/11/2022",
+    "data": "02/11/2022",
     "creditos": 2,
-    "assunto": "EDs baseadas em arrays"
+    "assunto": "Acompanhamento de definição de PTCC"
   },
   {
     "data": "07/11/2022",
     "creditos": 2,
-    "assunto": "EDs baseadas em arrays"
+    "assunto": "Escrita: concisão e resumo do PTCC"
   },
   {
-    "data": "10/11/2022",
+    "data": "09/11/2022",
     "creditos": 2,
-    "assunto": "LinkedList: abordagem iterativa"
+    "assunto": "Avaliação de Primeiro Estágio"
   },
   {
     "data": "14/11/2022",
     "creditos": 2,
-    "assunto": "LinkedList: abordagem recursivo"
+    "assunto": "O Projeto de TCC: Template de Documento"
   },
   {
-    "data": "17/11/2022",
+    "data": "16/11/2022",
     "creditos": 2,
-    "assunto": "Tabelas Hash: endereçamento fechado"
+    "assunto": "O Projeto de TCC: Template de Documento"
   },
   {
     "data": "21/11/2022",
     "creditos": 2,
-    "assunto": "Tabelas Hash: endereçamento aberto"
+    "assunto": "Acompanhamento de escrita: Introdução/O Problema"
   },
   {
-    "data": "24/11/2022",
+    "data": "23/11/2022",
     "creditos": 2,
-    "assunto": "Avaliação de Segundo Estágio"
+    "assunto": "Acompanhamento de escrita: Introdução/O Problema"
   },
   {
     "data": "28/11/2022",
     "creditos": 2,
-    "assunto": "Árvores Binárias de Pesquisa: conceitos"
+    "assunto": "Acompanhamento de escrita: Introdução/O Problema"
   },
   {
-    "data": "01/12/2022",
+    "data": "30/11/2022",
     "creditos": 2,
-    "assunto": "Árvores Binárias de Pesquisa: operações"
+    "assunto": "Acompanhamento de escrita: Introdução/O Problema"
   },
   {
     "data": "05/12/2022",
     "creditos": 2,
-    "assunto": "Heap: operações básicas"
+    "assunto": "Avaliação de Segundo Estágio"
   },
   {
-    "data": "08/12/2022",
+    "data": "07/12/2022",
     "creditos": 2,
-    "assunto": "Heap: buildheap e heapsort"
+    "assunto": "Acompanhamento de escrita: objetivos"
   },
   {
     "data": "12/12/2022",
     "creditos": 2,
-    "assunto": "Balanceamento: rotações"
+    "assunto": "Acompanhamento de escrita: objetivos"
   },
   {
-    "data": "15/12/2022",
+    "data": "14/12/2022",
     "creditos": 2,
-    "assunto": "AVL: operação de inserção"
+    "assunto": "Acompanhamento de escrita: objetivos"
   },
   {
     "data": "19/12/2022",
     "creditos": 2,
-    "assunto": "Avaliação de Terceiro Estágio"
+    "assunto": "Acompanhamento de escrita: metodologia"
   },
   {
-    "data": "22/12/2022",
+    "data": "21/12/2022",
     "creditos": 2,
-    "assunto": "buffer"
+    "assunto": "Acompanhamento de escrita: metodologia"
   },
   {
-    "data": "02/02/2023",
+    "data": "01/02/2023",
     "creditos": 2,
-    "assunto": "Árvores PV e  Árvores B"
+    "assunto": "Acompanhamento de escrita: cronograma"
+  },
+  {
+    "data": "01/02/2023",
+    "creditos": 2,
+    "assunto": "Acompanhamento de escrita: cronograma"
   },
   {
     "data": "06/02/2023",
     "creditos": 2,
-    "assunto": "Revisão de conteúdo"
+    "assunto": "Avaliação de Terceiro Estágio"
   },
   {
-    "data": "09/02/2023",
+    "data": "08/02/2023",
     "creditos": 2,
-    "assunto": "Avaliação de Reposição"
+    "assunto": "Atendimento para revisões"
   },
   {
     "data": "13/02/2023",
     "creditos": 2,
-    "assunto": "Avaliação: Prova Final"
+    "assunto": "Avaliação: Exame Final"
   }
 ],
-                    "codigo": "1411305",
-                    "plano" : {"ementa": "Complexidade de algoritmos. Estruturas de dados básicas e avançadas. Algoritmos de ordenação: por comparação e divisão e conquista e algoritmos em tempo linear. Tabelas hash. Hash dinamico. Pesquisa em árvores binárias. Árvores balanceadas. Heap Binária. Árvores P-V. árvores Splay. Skip List. Árvore B. Algoritmos sobre grafos. Ordenação. Estruturas indexadas para armazenamento em memória secundária.",         
-                               "objetivos": "Compreender a análise de complexidade de tempo de algoritmos. Escolher algoritmos baseando-se em seu tempo de execução. Entender os principais métodos de ordenação . Compreender e usar as estruturas de dados básicas e avançadas e seus algoritmos.",
-                               "conteudo": "Análise de algoritmos: notação assintótica, método iterativo e método mestre. Algoritmos de ordenação: Bubble sort, Selection Sort, Insertion Sort, Shell Sort, Merge Sort, Quick Sort. Tipo Abstrato de Dados. Vetor, Pilha e Lista. Árvores binárias. Heap binária. Árvores AVL, PV. e B. Skip List. Árvores Splay. Algoritmos sobre grafos.",
-                               "metodologia": "Aulas expositivas e aulas de exercícios.",
-                               "avaliacao": "Mini-testes, Prova e Atividades Extras.",
-                               "referencias": "CORMEN, T. H. et.al. Algoritmos: teoria e prática, 3 edição. Ed. Campus, 2002. Site do autor: http://mitpress.mit.edu/algorithms/ \n SEDGEWICK, Robert; WAYNE, Kevin. Algorithms. Addison-wesley professional, 2011."
+                    "codigo": "1411317",
+                    "plano" : {"ementa": "Leitura e Escrita de relatórios científicos. Como preparar uma apresentação; como apresentar um trabalho; Planejamento e execução de projeto em Ciência da Computação.",         
+                               "objetivos": "Nosso foco aqui é desenvolver a sua capacidade de leitura e compreensão de documentos e trabalhos técnicos, além fazer com que você seja capaz de planejar e apresentar de maneira escrita e oral trabalhos dessa natureza. Com essas habilidades, você será capaz de conceber, planejar e escrever um projeto de trabalho de conclusão de curso, que é o resultado concreto esperado dessa disciplina.",
+                               "conteudo": "O curso foi separado em três módulos:
+
+O que é um TCC no contexto do curso de Ciência da Computação da UFCG?
+
+Prática de Escrita: clareza, concisão, coerência e coesão, ritmo, estruturação em parágrafos; revisão e reescrita.
+
+Projeto de TCC: Estrutura e boas práticas em trabalhos de conclusão de curso. Boas práticas em apresentações acadêmicas.
+
+No primeiro módulo iremos caracterizar a natureza de um trabalho de conclusão de curso no contexto da nossa graduação. Nesse módulo, além da apresentação por parte do professor das definições e modalidades de TCC em Computação @ UFCG, iremos de maneira prática exercitar a compreensão de documentos e trabalhos técnicos dentro do contexto de Ciência da Computação.
+
+O objetivo principal do segundo módulo da disciplina é aprofundarmos nos detalhes técnicos de escrita, afinal a escrita servirá para comunicar os resultados do seu trabalho com clareza e objetividade. De certa forma, esse segundo módulo da disciplina é um aspecto transversal no curso, pois iremos abordá-lo com frequência em vários momentos da disciplina.
+
+Por fim, como o objetivo principal da disciplina é a produção de um projeto de trabalho de conclusão de curso, no terceiro módulo iremos dedicar nosso esforço à concepção, ao planejamento e à apresentação desse projeto. Esse módulo inclui algumas aulas, porém você será o agente central no processo de concepção da proposta, enquanto o professor supervisionará suas atividades.",
+                               "metodologia": " Pouco da disciplina seguirá o modelo tradicional baseado na tríade aula-exercício-avaliação. Conduzirei a disciplina baseado na metodologia resumida no parágrafo acima, que é utilizada em outros cursos bem sucedidos. Em particular, eu irei considerar esse curso bem sucedido se conseguirmos replicar a metodologia descrita nesse artigo: https://www.nytimes.com/2019/03/06/learning/teaching-great-writing-one-sentence-at-a-time.html
+
+Além das questões técnicas de escrita, é importante destacar que Projeto de TCC é uma disciplina construída em conjunto com os alunos. Essa afirmação baseia-se no fato de que você participará ativamente do processo criativo, uma vez que terá que propor um trabalho de conclusão de curso. Isso significa que a bola está com você e que não partirá do professor essa iniciativa. Assim, como professor, conduzirei atividades que te coloque como o agente principal na elaboração, condução e escrita do seu projeto.
+
+Em resumo, teremos aulas expositivas sobre conceitos relacionados ao TCC em Computação, atividades práticas para exercitar a escrita, e exercícios para estimular você a propor o seu trabalho de TCC.",
+                               "avaliacao": "Média da entrega dos 3 milestones.",
+                               "referencias": "Tirando de letra: Orientações simples e práticas para escrever bem, Chico Moura,&#8206; Wilma Moura. 1a. edição, Cia. das Letras.
+
+Writing for Computer Science, Justin Zobel, 3rd Edition, Springer
+
+Escrever Melhor: Guia para passar os textos a limpo. Dad Squarisi, Arlete Salvador. Ed. Contexto.
+
+Metodologia de Pesquisa em Ciência da Computação. Raul Wazlawick, Ed. Campus. 2009."
                               }
            }
