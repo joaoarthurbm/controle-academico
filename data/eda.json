@@ -1,127 +1,156 @@
 {"nome": "eda",
-                    "aulas" : [
-{
-  "13/03/2023": {
+                    "aulas" :[
+  {
+    "data": "13/03/2023",
     "creditos": 2,
     "assunto": "Introdução ao curso e Introdução à análise de algoritmos"
   },
-  "16/03/2023": {
+  {
+    "data": "16/03/2023",
     "creditos": 2,
     "assunto": "Introdução à análise de algoritmos"
   },
-  "20/03/2023": {
+  {
+    "data": "20/03/2023",
     "creditos": 2,
     "assunto": "Análise assintótica: notações"
   },
-  "23/03/2023": {
+  {
+    "data": "23/03/2023",
     "creditos": 2,
     "assunto": "Análise de algoritmos recursivos"
   },
-  "27/03/2023": {
+  {
+    "data": "27/03/2023",
     "creditos": 2,
     "assunto": "Bubblesort, selectionsort e insertionsort"
   },
-  "30/03/2023": {
+  {
+    "data": "30/03/2023",
     "creditos": 2,
     "assunto": "Mergesort e quicksort"
   },
-  "03/04/2023": {
+  {
+    "data": "03/04/2023",
     "creditos": 2,
     "assunto": "Mergesort e quicksort"
   },
-  "06/04/2023": {
+  {
+    "data": "06/04/2023",
     "creditos": 2,
     "assunto": "Countingsort e radixsort"
   },
-  "10/04/2023": {
+  {
+    "data": "10/04/2023",
     "creditos": 2,
     "assunto": "Aplicações de Algoritmos de Ordenação"
   },
-  "13/04/2023": {
+  {
+    "data": "13/04/2023",
     "creditos": 2,
     "assunto": "Avaliação de Primeiro Estágio"
   },
-  "17/04/2023": {
+  {
+    "data": "17/04/2023",
     "creditos": 2,
     "assunto": "Revisão de conteúdo e revisão de provas"
   },
-  "20/04/2023": {
+  {
+    "data": "20/04/2023",
     "creditos": 2,
     "assunto": "EDs baseadas em arrays"
   },
-  "24/04/2023": {
+  {
+    "data": "24/04/2023",
     "creditos": 2,
     "assunto": "EDs baseadas em arrays"
   },
-  "27/04/2023": {
+  {
+    "data": "27/04/2023",
     "creditos": 2,
     "assunto": "LinkedList: abordagem iterativa"
   },
-  "04/05/2023": {
+  {
+    "data": "04/05/2023",
     "creditos": 2,
     "assunto": "LinkedList: abordagem recursivo"
   },
-  "08/05/2023": {
+  {
+    "data": "08/05/2023",
     "creditos": 2,
     "assunto": "Tabelas Hash: endereçamento fechado"
   },
-  "11/05/2023": {
+  {
+    "data": "11/05/2023",
     "creditos": 2,
     "assunto": "Tabelas Hash: endereçamento aberto"
   },
-  "15/05/2023": {
+  {
+    "data": "15/05/2023",
     "creditos": 2,
     "assunto": "Avaliação de Segundo Estágio"
   },
-  "18/05/2023": {
+  {
+    "data": "18/05/2023",
     "creditos": 2,
     "assunto": "Árvores Binárias de Pesquisa: conceitos"
   },
-  "22/05/2023": {
+  {
+    "data": "22/05/2023",
     "creditos": 2,
     "assunto": "Árvores Binárias de Pesquisa: operações"
   },
-  "25/05/2023": {
+  {
+    "data": "25/05/2023",
     "creditos": 2,
     "assunto": "Heap: operações básicas"
   },
-  "29/05/2023": {
+  {
+    "data": "29/05/2023",
     "creditos": 2,
     "assunto": "Heap: buildheap e heapsort"
   },
-  "01/06/2023": {
+  {
+    "data": "01/06/2023",
     "creditos": 2,
     "assunto": "Balanceamento: rotações"
   },
-  "05/06/2023": {
+  {
+    "data": "05/06/2023",
     "creditos": 2,
     "assunto": "AVL: operação de inserção"
   },
-  "12/06/2023": {
+  {
+    "data": "12/06/2023",
     "creditos": 2,
     "assunto": "AVL: operação de inserção"
   },
-  "15/06/2023": {
+  {
+    "data": "15/06/2023",
     "creditos": 2,
     "assunto": "Ávores PV e Árvores B"
   },
-  "19/06/2023": {
+  {
+    "data": "19/06/2023",
     "creditos": 2,
     "assunto": "Avaliação de Terceiro Estágio"
   },
-  "22/06/2023": {
+  {
+    "data": "22/06/2023",
     "creditos": 2,
     "assunto": "Revisão de conteúdo e revisão de provas"
   },
-  "26/06/2023": {
+  {
+    "data": "26/06/2023",
     "creditos": 2,
     "assunto": "Avaliação de Reposição"
   },
-  "29/06/2023": {
+  {
+    "data": "29/06/2023",
     "creditos": 2,
     "assunto": "Avaliação: Prova Final"
   }
-}],
+],
  
     "codigo": "1411305",
                     "plano" : {"ementa": "Complexidade de algoritmos. Estruturas de dados básicas e avançadas. Algoritmos de ordenação: por comparação e divisão e conquista e algoritmos em tempo linear. Tabelas hash. Hash dinamico. Pesquisa em árvores binárias. Árvores balanceadas. Heap Binária. Árvores P-V. árvores Splay. Skip List. Árvore B. Algoritmos sobre grafos. Ordenação. Estruturas indexadas para armazenamento em memória secundária.",         
