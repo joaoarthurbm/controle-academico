@@ -1,3 +1,5 @@
+{"nome": "eda",
+                    "aulas" : [
 {
   "13/03/2023": {
     "creditos": 2,
@@ -119,4 +121,14 @@
     "creditos": 2,
     "assunto": "Avaliação: Prova Final"
   }
-}
+}],
+ 
+    "codigo": "1411305",
+                    "plano" : {"ementa": "Complexidade de algoritmos. Estruturas de dados básicas e avançadas. Algoritmos de ordenação: por comparação e divisão e conquista e algoritmos em tempo linear. Tabelas hash. Hash dinamico. Pesquisa em árvores binárias. Árvores balanceadas. Heap Binária. Árvores P-V. árvores Splay. Skip List. Árvore B. Algoritmos sobre grafos. Ordenação. Estruturas indexadas para armazenamento em memória secundária.",         
+                               "objetivos": "Compreender a análise de complexidade de tempo de algoritmos. Escolher algoritmos baseando-se em seu tempo de execução. Entender os principais métodos de ordenação . Compreender e usar as estruturas de dados básicas e avançadas e seus algoritmos.",
+                               "conteudo": "Análise de algoritmos: notação assintótica, método iterativo e método mestre. Algoritmos de ordenação: Bubble sort, Selection Sort, Insertion Sort, Shell Sort, Merge Sort, Quick Sort. Tipo Abstrato de Dados. Vetor, Pilha e Lista. Árvores binárias. Heap binária. Árvores AVL, PV. e B. Skip List. Árvores Splay. Algoritmos sobre grafos.",
+                               "metodologia": "Aulas expositivas e aulas de exercícios.",
+                               "avaliacao": "Mini-testes, Prova e Atividades Extras.",
+                               "referencias": "CORMEN, T. H. et.al. Algoritmos: teoria e prática, 3 edição. Ed. Campus, 2002. Site do autor: http://mitpress.mit.edu/algorithms/ \n SEDGEWICK, Robert; WAYNE, Kevin. Algorithms. Addison-wesley professional, 2011."
+                              }
+           }
