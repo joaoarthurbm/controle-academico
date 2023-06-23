@@ -1,6 +1,6 @@
 {"nome": "eda",
                     "aulas" :[
- {
+ 
   "13/03/2023": {
     "creditos": 2,
     "assunto": "Introdução ao curso e Introdução à análise de algoritmos"
@@ -121,7 +121,7 @@
     "creditos": 2,
     "assunto": "Avaliação: Prova Final"
   }
-}
+
 ],
  
     "codigo": "1411305",
