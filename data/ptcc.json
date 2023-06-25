@@ -1,156 +1,157 @@
 {
 	"nome": "ptcc",
-	"aulas": [{
-			"data": "26/09/2022",
-			"creditos": 2,
-			"assunto": "Introdução ao curso de PTCC"
-		},
-		{
-			"data": "28/09/2022",
-			"creditos": 2,
-			"assunto": "Exemplos de TCC: pesquisa"
-		},
-		{
-			"data": "03/10/2022",
-			"creditos": 2,
-			"assunto": "Exemplos de TCC: desenvolvimento"
-		},
-		{
-			"data": "05/10/2022",
-			"creditos": 2,
-			"assunto": "Exemplos de TCC: pesquisa"
-		},
-		{
-			"data": "10/10/2022",
-			"creditos": 2,
-			"assunto": "Exemplos de TCC: desenvolvimento"
-		},
-		{
-			"data": "17/10/2022",
-			"creditos": 2,
-			"assunto": "Apresentação de orientadores possíveis"
-		},
-		{
-			"data": "19/10/2022",
-			"creditos": 2,
-			"assunto": "Apresentação de orientadores possíveis"
-		},
-		{
-			"data": "24/10/2022",
-			"creditos": 2,
-			"assunto": "Acompanhamento de definição de PTCC"
-		},
-		{
-			"data": "26/10/2022",
-			"creditos": 2,
-			"assunto": "Acompanhamento de definição de PTCC"
-		},
-		{
-			"data": "31/10/2022",
-			"creditos": 2,
-			"assunto": "Acompanhamento de definição de PTCC"
-		},
-		{
-			"data": "02/11/2022",
-			"creditos": 2,
-			"assunto": "Acompanhamento de definição de PTCC"
-		},
-		{
-			"data": "07/11/2022",
-			"creditos": 2,
-			"assunto": "Escrita: concisão e resumo do PTCC"
-		},
-		{
-			"data": "09/11/2022",
-			"creditos": 2,
-			"assunto": "Avaliação de Primeiro Estágio"
-		},
-		{
-			"data": "14/11/2022",
-			"creditos": 2,
-			"assunto": "O Projeto de TCC: Template de Documento"
-		},
-		{
-			"data": "16/11/2022",
-			"creditos": 2,
-			"assunto": "O Projeto de TCC: Template de Documento"
-		},
-		{
-			"data": "21/11/2022",
-			"creditos": 2,
-			"assunto": "Acompanhamento de escrita: Introdução/O Problema"
-		},
-		{
-			"data": "23/11/2022",
-			"creditos": 2,
-			"assunto": "Acompanhamento de escrita: Introdução/O Problema"
-		},
-		{
-			"data": "28/11/2022",
-			"creditos": 2,
-			"assunto": "Acompanhamento de escrita: Introdução/O Problema"
-		},
-		{
-			"data": "30/11/2022",
-			"creditos": 2,
-			"assunto": "Acompanhamento de escrita: Introdução/O Problema"
-		},
-		{
-			"data": "05/12/2022",
-			"creditos": 2,
-			"assunto": "Avaliação de Segundo Estágio"
-		},
-		{
-			"data": "07/12/2022",
-			"creditos": 2,
-			"assunto": "Acompanhamento de escrita: objetivos"
-		},
-		{
-			"data": "12/12/2022",
-			"creditos": 2,
-			"assunto": "Acompanhamento de escrita: objetivos"
-		},
-		{
-			"data": "14/12/2022",
-			"creditos": 2,
-			"assunto": "Acompanhamento de escrita: objetivos"
-		},
-		{
-			"data": "19/12/2022",
-			"creditos": 2,
-			"assunto": "Acompanhamento de escrita: metodologia"
-		},
-		{
-			"data": "21/12/2022",
-			"creditos": 2,
-			"assunto": "Acompanhamento de escrita: metodologia"
-		},
-		{
-			"data": "01/02/2023",
-			"creditos": 2,
-			"assunto": "Acompanhamento de escrita: cronograma"
-		},
-		{
-			"data": "01/02/2023",
-			"creditos": 2,
-			"assunto": "Acompanhamento de escrita: cronograma"
-		},
-		{
-			"data": "06/02/2023",
-			"creditos": 2,
-			"assunto": "Avaliação de Terceiro Estágio"
-		},
-		{
-			"data": "08/02/2023",
-			"creditos": 2,
-			"assunto": "Atendimento para revisões"
-		},
-		{
-			"data": "13/02/2023",
-			"creditos": 2,
-			"assunto": "Avaliação: Exame Final"
-		}
-	],
+	"aulas": [
+  {
+    "data": "13/03/2023",
+    "creditos": 2,
+    "assunto": "Introdução ao curso de PTCC"
+  },
+  {
+    "data": "15/03/2023",
+    "creditos": 2,
+    "assunto": "Introdução ao curso de PTCC. Exemplos de TCC: pesquisa"
+  },
+  {
+    "data": "20/03/2023",
+    "creditos": 2,
+    "assunto": "Exemplos de TCC: desenvolvimento; pesquisa"
+  },
+  {
+    "data": "22/03/2023",
+    "creditos": 2,
+    "assunto": "Exemplos de TCC: desenvolvimento; pesquisa"
+  },
+  {
+    "data": "27/03/2023",
+    "creditos": 2,
+    "assunto": "Apresentação de orientadores possíveis"
+  },
+  {
+    "data": "29/03/2023",
+    "creditos": 2,
+    "assunto": "Como Escrever o Resumo da Proposta"
+  },
+  {
+    "data": "03/04/2023",
+    "creditos": 2,
+    "assunto": "Escrita: concisão e resumo do PTCC"
+  },
+  {
+    "data": "05/04/2023",
+    "creditos": 2,
+    "assunto": "Acompanhamento de definição de PTCC"
+  },
+  {
+    "data": "10/04/2023",
+    "creditos": 2,
+    "assunto": "Acompanhamento de definição de PTCC"
+  },
+  {
+    "data": "12/04/2023",
+    "creditos": 2,
+    "assunto": "Acompanhamento de definição de PTCC"
+  },
+  {
+    "data": "17/04/2023",
+    "creditos": 2,
+    "assunto": "Acompanhamento de definição de PTCC"
+  },
+  {
+    "data": "19/04/2023",
+    "creditos": 2,
+    "assunto": "Acompanhamento de definição de PTCC"
+  },
+  {
+    "data": "24/04/2023",
+    "creditos": 2,
+    "assunto": "Avaliação de Primeiro Estágio"
+  },
+  {
+    "data": "26/04/2023",
+    "creditos": 2,
+    "assunto": "O Projeto de TCC: Template de Documento"
+  },
+  {
+    "data": "03/05/2023",
+    "creditos": 2,
+    "assunto": "Acompanhamento de escrita: Introdução e Metodologia"
+  },
+  {
+    "data": "08/05/2023",
+    "creditos": 2,
+    "assunto": "Acompanhamento de escrita: Introdução e Metodologia"
+  },
+  {
+    "data": "10/05/2023",
+    "creditos": 2,
+    "assunto": "Acompanhamento de escrita: Introdução e Metodologia"
+  },
+  {
+    "data": "15/05/2023",
+    "creditos": 2,
+    "assunto": "Acompanhamento de escrita: Introdução e Metodologia"
+  },
+  {
+    "data": "17/05/2023",
+    "creditos": 2,
+    "assunto": "Acompanhamento de escrita: Introdução e Metodologia"
+  },
+  {
+    "data": "22/05/2023",
+    "creditos": 2,
+    "assunto": "Acompanhamento de escrita: Introdução e Metodologia"
+  },
+  {
+    "data": "24/05/2023",
+    "creditos": 2,
+    "assunto": "Avaliação de Segundo Estágio"
+  },
+  {
+    "data": "29/05/2023",
+    "creditos": 2,
+    "assunto": "Orientações finais sobre o documento"
+  },
+  {
+    "data": "31/05/2023",
+    "creditos": 2,
+    "assunto": "Acompanhamento de escrita: conclusão do documento"
+  },
+  {
+    "data": "05/06/2023",
+    "creditos": 2,
+    "assunto": "Acompanhamento de escrita: conclusão do documento"
+  },
+  {
+    "data": "07/06/2023",
+    "creditos": 2,
+    "assunto": "Acompanhamento de escrita: conclusão do documento"
+  },
+  {
+    "data": "12/06/2023",
+    "creditos": 2,
+    "assunto": "Acompanhamento de escrita: conclusão do documento"
+  },
+  {
+    "data": "14/06/2023",
+    "creditos": 2,
+    "assunto": "Acompanhamento de escrita: conclusão do documento"
+  },
+  {
+    "data": "19/06/2023",
+    "creditos": 2,
+    "assunto": "Avaliação de Terceiro Estágio"
+  },
+  {
+    "data": "21/06/2023",
+    "creditos": 2,
+    "assunto": "Reposição do terceiro estágio"
+  },
+  {
+    "data": "26/06/2023",
+    "creditos": 2,
+    "assunto": "Avaliação: Exame Final"
+  }
+],
 
 	"codigo": "1411317",
 	"plano": {
