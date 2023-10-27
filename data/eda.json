@@ -1,154 +1,144 @@
 {"nome": "eda",
                     "aulas" :[
   {
-    "data": "13/03/2023",
+    "data": "24/07/23",
     "creditos": 2,
     "assunto": "Introdução ao curso e Introdução à análise de algoritmos"
   },
   {
-    "data": "16/03/2023",
+    "data": "27/07/23",
     "creditos": 2,
     "assunto": "Introdução à análise de algoritmos"
   },
   {
-    "data": "20/03/2023",
+    "data": "31/07/23",
     "creditos": 2,
     "assunto": "Análise assintótica: notações"
   },
   {
-    "data": "23/03/2023",
+    "data": "03/08/23",
     "creditos": 2,
     "assunto": "Análise de algoritmos recursivos"
   },
   {
-    "data": "27/03/2023",
+    "data": "07/08/23",
     "creditos": 2,
     "assunto": "Bubblesort, selectionsort e insertionsort"
   },
   {
-    "data": "30/03/2023",
+    "data": "10/08/23",
     "creditos": 2,
     "assunto": "Mergesort e quicksort"
   },
   {
-    "data": "03/04/2023",
+    "data": "14/08/23",
     "creditos": 2,
-    "assunto": "Mergesort e quicksort"
+    "assunto": "Ordenação Linear: Counting Sort e Radix Sort"
   },
   {
-    "data": "06/04/2023",
+    "data": "17/08/23",
     "creditos": 2,
-    "assunto": "Countingsort e radixsort"
+    "assunto": "Preparação para o primeiro estágio"
   },
   {
-    "data": "10/04/2023",
-    "creditos": 2,
-    "assunto": "Countingsort e radixsort"
-  },
-  {
-    "data": "13/04/2023",
-    "creditos": 2,
-    "assunto": "Aplicações de Algoritmos de Ordenação"
-  },
-  {
-    "data": "17/04/2023",
+    "data": "21/08/23",
     "creditos": 2,
     "assunto": "Avaliação de Primeiro Estágio"
   },
   {
-    "data": "20/04/2023",
+    "data": "24/08/23",
     "creditos": 2,
     "assunto": "EDs baseadas em arrays"
   },
   {
-    "data": "24/04/2023",
+    "data": "28/08/23",
     "creditos": 2,
     "assunto": "EDs baseadas em arrays"
   },
   {
-    "data": "27/04/2023",
+    "data": "31/08/23",
     "creditos": 2,
     "assunto": "LinkedList: abordagem iterativa"
   },
   {
-    "data": "04/05/2023",
+    "data": "04/09/23",
     "creditos": 2,
     "assunto": "LinkedList: abordagem recursivo"
   },
   {
-    "data": "08/05/2023",
+    "data": "11/09/23",
     "creditos": 2,
     "assunto": "Tabelas Hash: endereçamento fechado"
   },
   {
-    "data": "11/05/2023",
+    "data": "14/09/23",
     "creditos": 2,
     "assunto": "Tabelas Hash: endereçamento aberto"
   },
   {
-    "data": "15/05/2023",
+    "data": "18/09/23",
+    "creditos": 2,
+    "assunto": "Atividades de preparação para segundo estágio"
+  },
+  {
+    "data": "21/09/23",
+    "creditos": 2,
+    "assunto": "Atividades de preparação para segundo estágio"
+  },
+  {
+    "data": "25/09/23",
     "creditos": 2,
     "assunto": "Avaliação de Segundo Estágio"
   },
   {
-    "data": "18/05/2023",
+    "data": "28/09/23",
     "creditos": 2,
     "assunto": "Árvores Binárias de Pesquisa: conceitos"
   },
   {
-    "data": "22/05/2023",
+    "data": "02/10/23",
     "creditos": 2,
     "assunto": "Árvores Binárias de Pesquisa: inserção e outras operações básicas"
   },
   {
-    "data": "25/05/2023",
+    "data": "05/10/23",
     "creditos": 2,
-    "assunto": "Árvores Binárias de Pesquisa: remoção e largura"
+    "assunto": "Heap: operações básicas, build heap e heap sort"
   },
   {
-    "data": "29/05/2023",
+    "data": "09/10/23",
     "creditos": 2,
-    "assunto": "Heap: operações básicas"
+    "assunto": "Balanceamento: rotações + avl"
   },
   {
-    "data": "01/06/2023",
+    "data": "16/10/23",
     "creditos": 2,
-    "assunto": "Heap: buildheap e heapsort"
+    "assunto": "Ávores PV: conceitos básicos e inserção"
   },
   {
-    "data": "05/06/2023",
+    "data": "19/10/23",
     "creditos": 2,
-    "assunto": "Balanceamento: rotações"
+    "assunto": "Árvores B: conceitos básicos, inserção e remoção"
   },
   {
-    "data": "12/06/2023",
+    "data": "23/10/23",
     "creditos": 2,
-    "assunto": "Ávores PV"
+    "assunto": "Árvores B: conceitos básicos, inserção e remoção"
   },
   {
-    "data": "15/06/2023",
-    "creditos": 2,
-    "assunto": "Árvores B"
-  },
-  {
-    "data": "19/06/2023",
-    "creditos": 2,
-    "assunto": "buffer"
-  },
-  {
-    "data": "22/06/2023",
+    "data": "26/10/23",
     "creditos": 2,
     "assunto": "Avaliação de Terceiro Estágio"
   },
   {
-    "data": "26/06/2023",
+    "data": "30/10/23",
     "creditos": 2,
     "assunto": "Avaliação de Reposição"
   },
   {
-    "data": "29/06/2023",
+    "data": "13/11/23",
     "creditos": 2,
-    "assunto": "Avaliação: Prova Final"
+    "assunto": "prova final"
   }
 ],
  
