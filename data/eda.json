@@ -1,134 +1,144 @@
 {"nome": "eda",
                     "aulas" :[
   {
-    "2": 2,
-    "27/07/2023": "31/07/2023",
-    "Introdução à análise de algoritmos": "Análise assintótica: notações"
+    "data": "24/07/23",
+    "creditos": 2,
+    "assunto": "Introdução ao curso e Introdução à análise de algoritmos"
   },
   {
-    "2": 2,
-    "27/07/2023": "03/08/2023",
-    "Introdução à análise de algoritmos": "Análise de algoritmos recursivos"
+    "data": "27/07/2023",
+    "creditos": 2,
+    "assunto": "Introdução à análise de algoritmos"
   },
   {
-    "2": 2,
-    "27/07/2023": "07/08/2023",
-    "Introdução à análise de algoritmos": "Bubblesort, selectionsort e insertionsort"
+    "data": "31/07/2023",
+    "creditos": 2,
+    "assunto": "Análise assintótica: notações"
   },
   {
-    "2": 2,
-    "27/07/2023": "10/08/2023",
-    "Introdução à análise de algoritmos": "Mergesort e quicksort"
+    "data": "03/08/2023",
+    "creditos": 2,
+    "assunto": "Análise de algoritmos recursivos"
   },
   {
-    "2": 2,
-    "27/07/2023": "14/08/2023",
-    "Introdução à análise de algoritmos": "Ordenação Linear: Counting Sort e Radix Sort"
+    "data": "07/08/2023",
+    "creditos": 2,
+    "assunto": "Bubblesort, selectionsort e insertionsort"
   },
   {
-    "2": 2,
-    "27/07/2023": "17/08/2023",
-    "Introdução à análise de algoritmos": "Preparação para o primeiro estágio"
+    "data": "10/08/2023",
+    "creditos": 2,
+    "assunto": "Mergesort e quicksort"
   },
   {
-    "2": 2,
-    "27/07/2023": "21/08/2023",
-    "Introdução à análise de algoritmos": "Avaliação de Primeiro Estágio"
+    "data": "14/08/2023",
+    "creditos": 2,
+    "assunto": "Ordenação Linear: Counting Sort e Radix Sort"
   },
   {
-    "2": 2,
-    "27/07/2023": "24/08/2023",
-    "Introdução à análise de algoritmos": "EDs baseadas em arrays"
+    "data": "17/08/2023",
+    "creditos": 2,
+    "assunto": "Preparação para o primeiro estágio"
   },
   {
-    "2": 2,
-    "27/07/2023": "28/08/2023",
-    "Introdução à análise de algoritmos": "EDs baseadas em arrays"
+    "data": "21/08/2023",
+    "creditos": 2,
+    "assunto": "Avaliação de Primeiro Estágio"
   },
   {
-    "2": 2,
-    "27/07/2023": "31/08/2023",
-    "Introdução à análise de algoritmos": "LinkedList: abordagem iterativa"
+    "data": "24/08/2023",
+    "creditos": 2,
+    "assunto": "EDs baseadas em arrays"
   },
   {
-    "2": 2,
-    "27/07/2023": "04/09/2023",
-    "Introdução à análise de algoritmos": "LinkedList: abordagem recursivo"
+    "data": "28/08/2023",
+    "creditos": 2,
+    "assunto": "EDs baseadas em arrays"
   },
   {
-    "2": 2,
-    "27/07/2023": "11/09/2023",
-    "Introdução à análise de algoritmos": "Tabelas Hash: endereçamento fechado"
+    "data": "31/08/2023",
+    "creditos": 2,
+    "assunto": "LinkedList: abordagem iterativa"
   },
   {
-    "2": 2,
-    "27/07/2023": "14/09/2023",
-    "Introdução à análise de algoritmos": "Tabelas Hash: endereçamento aberto"
+    "data": "04/09/2023",
+    "creditos": 2,
+    "assunto": "LinkedList: abordagem recursivo"
   },
   {
-    "2": 2,
-    "27/07/2023": "18/09/2023",
-    "Introdução à análise de algoritmos": "Atividades de preparação para segundo estágio"
+    "data": "11/09/2023",
+    "creditos": 2,
+    "assunto": "Tabelas Hash: endereçamento fechado"
   },
   {
-    "2": 2,
-    "27/07/2023": "21/09/2023",
-    "Introdução à análise de algoritmos": "Atividades de preparação para segundo estágio"
+    "data": "14/09/2023",
+    "creditos": 2,
+    "assunto": "Tabelas Hash: endereçamento aberto"
   },
   {
-    "2": 2,
-    "27/07/2023": "25/09/2023",
-    "Introdução à análise de algoritmos": "Avaliação de Segundo Estágio"
+    "data": "18/09/2023",
+    "creditos": 2,
+    "assunto": "Atividades de preparação para segundo estágio"
   },
   {
-    "2": 2,
-    "27/07/2023": "28/09/2023",
-    "Introdução à análise de algoritmos": "Árvores Binárias de Pesquisa: conceitos"
+    "data": "21/09/2023",
+    "creditos": 2,
+    "assunto": "Atividades de preparação para segundo estágio"
   },
   {
-    "2": 2,
-    "27/07/2023": "02/10/2023",
-    "Introdução à análise de algoritmos": "Árvores Binárias de Pesquisa: inserção e outras operações básicas"
+    "data": "25/09/2023",
+    "creditos": 2,
+    "assunto": "Avaliação de Segundo Estágio"
   },
   {
-    "2": 2,
-    "27/07/2023": "05/10/2023",
-    "Introdução à análise de algoritmos": "Heap: operações básicas, build heap e heap sort"
+    "data": "28/09/2023",
+    "creditos": 2,
+    "assunto": "Árvores Binárias de Pesquisa: conceitos"
   },
   {
-    "2": 2,
-    "27/07/2023": "09/10/2023",
-    "Introdução à análise de algoritmos": "Balanceamento: rotações + avl"
+    "data": "02/10/2023",
+    "creditos": 2,
+    "assunto": "Árvores Binárias de Pesquisa: inserção e outras operações básicas"
   },
   {
-    "2": 2,
-    "27/07/2023": "16/10/2023",
-    "Introdução à análise de algoritmos": "Ávores PV: conceitos básicos e inserção"
+    "data": "05/10/2023",
+    "creditos": 2,
+    "assunto": "Heap: operações básicas, build heap e heap sort"
   },
   {
-    "2": 2,
-    "27/07/2023": "19/10/2023",
-    "Introdução à análise de algoritmos": "Árvores B: conceitos básicos, inserção e remoção"
+    "data": "09/10/2023",
+    "creditos": 2,
+    "assunto": "Balanceamento: rotações + avl"
   },
   {
-    "2": 2,
-    "27/07/2023": "23/10/2023",
-    "Introdução à análise de algoritmos": "Árvores B: conceitos básicos, inserção e remoção"
+    "data": "16/10/2023",
+    "creditos": 2,
+    "assunto": "Ávores PV: conceitos básicos e inserção"
   },
   {
-    "2": 2,
-    "27/07/2023": "26/10/2023",
-    "Introdução à análise de algoritmos": "Avaliação de Terceiro Estágio"
+    "data": "19/10/2023",
+    "creditos": 2,
+    "assunto": "Árvores B: conceitos básicos, inserção e remoção"
   },
   {
-    "2": 2,
-    "27/07/2023": "30/10/2023",
-    "Introdução à análise de algoritmos": "Avaliação de Reposição"
+    "data": "23/10/2023",
+    "creditos": 2,
+    "assunto": "Árvores B: conceitos básicos, inserção e remoção"
   },
   {
-    "2": 2,
-    "27/07/2023": "13/11/2023",
-    "Introdução à análise de algoritmos": "prova final"
+    "data": "26/10/2023",
+    "creditos": 2,
+    "assunto": "Avaliação de Terceiro Estágio"
+  },
+  {
+    "data": "30/10/2023",
+    "creditos": 2,
+    "assunto": "Avaliação de Reposição"
+  },
+  {
+    "data": "13/11/2023",
+    "creditos": 2,
+    "assunto": "prova final"
   }
 ],
  
