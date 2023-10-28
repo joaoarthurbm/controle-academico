@@ -1,154 +1,149 @@
 {"nome": "Arquitetura de Software",
                     "aulas" : [
   {
-    "data": "26/09/2022",
+    "data": "24/07/2023",
     "creditos": 2,
-    "assunto": "Introdução ao curso e Introdução à análise de algoritmos"
+    "assunto": "Introdução ao curso"
   },
   {
-    "data": "29/09/2022",
+    "data": "27/07/2023",
     "creditos": 2,
-    "assunto": "Introdução à análise de algoritmos"
+    "assunto": "O que é arquitetura de software?"
   },
   {
-    "data": "03/10/2022",
+    "data": "31/07/2023",
     "creditos": 2,
-    "assunto": "Análise assintótica: visão geral"
+    "assunto": "O modelo de visões arquiteturais"
   },
   {
-    "data": "06/10/2022",
+    "data": "03/08/2023",
     "creditos": 2,
-    "assunto": "Análise assintótica: notações"
+    "assunto": "RFC + O modelo C4"
   },
   {
-    "data": "10/10/2022",
+    "data": "07/08/2023",
     "creditos": 2,
-    "assunto": "Análise de algoritmos recursivos"
+    "assunto": "RFC + O modelo C4"
   },
   {
-    "data": "13/10/2022",
+    "data": "10/08/2023",
     "creditos": 2,
-    "assunto": "Análise de algoritmos recursivos"
+    "assunto": "Estilos Arquiteturais"
   },
   {
-    "data": "17/10/2022",
+    "data": "14/08/2023",
     "creditos": 2,
-    "assunto": "Bubblesort, selectionsort e insertionsort"
+    "assunto": "Estilos Arquiteturais"
   },
   {
-    "data": "20/10/2022",
+    "data": "17/08/2023",
     "creditos": 2,
-    "assunto": "Bubblesort, selectionsort e insertionsort"
+    "assunto": "Estilos Arquiteturais"
   },
   {
-    "data": "24/10/2022",
+    "data": "21/08/2023",
     "creditos": 2,
-    "assunto": "Mergesort e quicksort"
+    "assunto": "Estilos Arquiteturais"
   },
   {
-    "data": "27/10/2022",
+    "data": "24/08/2023",
     "creditos": 2,
-    "assunto": "Mergesort e quicksort"
+    "assunto": "Grandes preocupações: Desempenho e Escalabilidade"
   },
   {
-    "data": "31/10/2022",
+    "data": "28/08/2023",
     "creditos": 2,
-    "assunto": "Countingsort e radixsort"
+    "assunto": "Grandes preocupações: Desempenho e Escalabilidade"
   },
   {
-    "data": "03/11/2022",
+    "data": "31/08/2023",
     "creditos": 2,
-    "assunto": "Countingsort e radixsort"
+    "assunto": "Grandes preocupações: Segurança"
   },
   {
-    "data": "07/11/2022",
+    "data": "04/09/2023",
     "creditos": 2,
-    "assunto": "Avaliação de Primeiro Estágio"
+    "assunto": "Grandes preocupações: Segurança"
   },
   {
-    "data": "10/11/2022",
+    "data": "11/09/2023",
     "creditos": 2,
-    "assunto": "EDs baseadas em arrays"
+    "assunto": "Grandes preocupações: Confiabilidade (Reliability)"
   },
   {
-    "data": "14/11/2022",
+    "data": "14/09/2023",
     "creditos": 2,
-    "assunto": "EDs baseadas em arrays"
+    "assunto": "Grandes preocupações: Complexidade/Simplicidade/Modularidade"
   },
   {
-    "data": "17/11/2022",
+    "data": "18/09/2023",
     "creditos": 2,
-    "assunto": "LinkedList: abordagem iterativa"
+    "assunto": "Definição dos projetos"
   },
   {
-    "data": "21/11/2022",
+    "data": "21/09/2023",
     "creditos": 2,
-    "assunto": "LinkedList: abordagem recursivo"
+    "assunto": "Definição dos projetos"
   },
   {
-    "data": "24/11/2022",
+    "data": "25/09/2023",
     "creditos": 2,
-    "assunto": "Tabelas Hash: endereçamento fechado"
+    "assunto": "Acompanhamento de Projetos"
   },
   {
-    "data": "28/11/2022",
+    "data": "28/09/2023",
     "creditos": 2,
-    "assunto": "Tabelas Hash: endereçamento aberto"
+    "assunto": "Acompanhamento de Projetos"
   },
   {
-    "data": "01/12/2022",
+    "data": "02/10/2023",
     "creditos": 2,
-    "assunto": "Avaliação de Segundo Estágio"
+    "assunto": "Acompanhamento de Projetos"
   },
   {
-    "data": "05/12/2022",
+    "data": "05/10/2023",
     "creditos": 2,
-    "assunto": "Árvores Binárias de Pesquisa: conceitos"
+    "assunto": "Acompanhamento de Projetos"
   },
   {
-    "data": "08/12/2022",
+    "data": "09/10/2023",
     "creditos": 2,
-    "assunto": "Árvores Binárias de Pesquisa: operações"
+    "assunto": "Acompanhamento de Projetos"
   },
   {
-    "data": "12/12/2022",
+    "data": "16/10/2023",
     "creditos": 2,
-    "assunto": "Heap: operações básicas"
+    "assunto": "Acompanhamento de Projetos"
   },
   {
-    "data": "15/12/2022",
+    "data": "19/10/2023",
     "creditos": 2,
-    "assunto": "Heap: buildheap e heapsort"
+    "assunto": "Acompanhamento de Projetos"
   },
   {
-    "data": "19/12/2022",
+    "data": "23/10/2023",
     "creditos": 2,
-    "assunto": "Balanceamento: rotações"
+    "assunto": "Apresentações: Grupos 1, 2 e 3"
   },
   {
-    "data": "22/12/2022",
+    "data": "26/10/2023",
     "creditos": 2,
-    "assunto": "AVL: operação de inserção"
+    "assunto": "Apresentações: Grupos 4, 5 e 6"
   },
   {
-    "data": "02/02/2023",
+    "data": "30/10/2023",
     "creditos": 2,
-    "assunto": "Árvores PV e  Árvores B"
+    "assunto": "Apresentações: Grupos 7, 8 e 9"
   },
   {
-    "data": "06/02/2023",
+    "data": "06/11/2023",
     "creditos": 2,
-    "assunto": "Avaliação de Terceiro Estágio"
+    "assunto": "Avaliação Parcial de Projeto"
   },
   {
-    "data": "09/02/2023",
+    "data": "09/11/2023",
     "creditos": 2,
-    "assunto": "Avaliação de Reposição"
-  },
-  {
-    "data": "13/02/2023",
-    "creditos": 2,
-    "assunto": "Avaliação: Prova Final"
+    "assunto": "Avaliação Final de Projeto"
   }
 ],
                     "codigo": "1411305",
